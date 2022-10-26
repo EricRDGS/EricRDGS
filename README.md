@@ -1,7 +1,7 @@
 <h1>Bem-Vindo(a) ao meu perfil</h1>
 
 <div>
-  <a href="https://github.com/EricRDGS">
+  <a href="https://github.com/ericrdgs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericrdgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericrdgs&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
