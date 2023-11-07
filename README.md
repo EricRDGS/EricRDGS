@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil 😁
+## 👨🏻‍💻 Bem-vindo(a) ao perfil!
 
  <div>
    <a href="https://github.com/ericrdgs">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Minhas redes sociais!
+### 📱 Minhas redes sociais!
  
 <div> 
   <a href="https://instagram.com/ericrdgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
